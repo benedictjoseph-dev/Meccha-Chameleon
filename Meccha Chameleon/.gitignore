@@ -1,0 +1,54 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+SysInfo.txt
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# Keep meta files
+!Assets/**/*.meta
+
+# Addressables (safe)
+Assets/AddressableAssetsData/*/*.bin*
+Assets/AddressableAssetsData/*/*.hash
+
+# Build artifacts
+*.apk
+*.aab
+*.app
+*.exe
+*.ipa
+*.xcodeproj
+*.xcworkspace
+
+# Logs
+*.log
+*.stacktrace
+
+# OS
+.DS_Store
+ehthumbs.db
+Thumbs.db
+
+# Large asset protection
+*.psd
+*.tif
+*.tiff
+*.wav
+*.flac
+*.mov
+*.mp4
+*.fbx
+
+# Unity packages
+!Packages/manifest.json
+!Packages/packages-lock.json
